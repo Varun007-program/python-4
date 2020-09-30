@@ -1,5 +1,5 @@
-# python-4
-Fibonacci series
+
+# Fibonacci series
 The Fibonacci Sequence is a series of numbers named after Italian mathematician, known as Fibonacci. It is simply the series of numbers which starts from 0 and 1 and then continued by the addition of the preceding two numbers. In this article, you will learn how to write a Python program to implement the Fibonacci series using multiple methods. Below pointers will be discussed:
 
 What is Fibonacci series?
